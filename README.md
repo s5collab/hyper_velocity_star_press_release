@@ -9,7 +9,7 @@ The article "Discovery of a nearby 1700 km/s star ejected from the Milky Way by 
 - [The S5 collaboration](https://s5collab.github.io/)
 - The Anglo-Australian telescope
 - The Gaia satellite
-- [Homepage of the lead author, Sergey Koposov](https://www.andrew.cmu.edu/user/skoposov/)
+- [Homepage of Sergey Koposov](https://www.andrew.cmu.edu/user/skoposov/)
 - Homepage of Ting Li
 - Homepage of Douglas Boubert
 
@@ -30,7 +30,7 @@ Caption: An artist’s impression of S5-HVS1’s ejection by Sagittarius A*, the
 ## Videos
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9dExQCwCbUU"
-target="_blank"><img src="https://youtu.be/vi/9dExQCwCbUU/0.jpg"
+target="_blank"><img src="https://img.youtube.com/vi/9dExQCwCbUU/0.jpg"
 alt="Ejection of S5-HVS1" width="600" height="400" border="1" /></a>
 Caption: The artist impression of the ejection mechanism by the supermassive black hole. 
 
