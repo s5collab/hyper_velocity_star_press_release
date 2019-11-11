@@ -15,4 +15,12 @@ Caption: The location of the star on the sky and the direction of its motion. Th
 Caption: An artist’s impression of S5-HVS1’s ejection by Sagittarius A*, the black hole at the center of the Galaxy. The black hole and the captured binary partner to S5-HVS1 are seen far away in the left corner of the picture, while S5-HVS1 is in the foreground, speeding away from them. Credit: James Josephides (Swinburne Astronomy Productions)
 
 
+ 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=V91iH6i-9-g" 
+target="_blank"><img src="http://img.youtube.com/vi/V91iH6i-9-g/0.jpg" 
+alt="Ejection of S5-HVS1" width="240" height="180" border="10" />here</a>
+The view of the ejection of the S5-HVS1 star, as an observer from outside our galaxy would see it. The Sun is marked by an orange sphere, while the ejected star is shown by a blue sphere. Credit: Sergey Koposov (CMU)
+
+
+
 
