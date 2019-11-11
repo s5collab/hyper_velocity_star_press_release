@@ -15,14 +15,15 @@ The article "Discovery of a nearby 1700 km/s star ejected from the Milky Way by 
 
 ## Images:
 
-![](map.png)
-Caption: The location of the star on the sky and the direction of its motion. The star is flying away from the Galactic center, from which it was ejected 5 million years ago. Credit: Sergey Koposov [Download](map.png)
+All the images are available in high resolution to download [here](images_videos/)
+
+![](images_videos/map.png)
+Caption: The location of the star on the sky and the direction of its motion. The star is flying away from the Galactic center, from which it was ejected 5 million years ago. Credit: Sergey Koposov [Download](images_videos/map.png)
 
 ---
 
-
-![](HyperVelocityStar2.jpg)
-Caption: An artist’s impression of S5-HVS1’s ejection by Sagittarius A*, the black hole at the center of the Galaxy. The black hole and the captured binary partner to S5-HVS1 are seen far away in the left corner of the picture, while S5-HVS1 is in the foreground, speeding away from them. Credit: James Josephides (Swinburne Astronomy Productions)
+![](images_videos/HyperVelocityStar2.jpg)
+Caption: An artist’s impression of S5-HVS1’s ejection by Sagittarius A*, the black hole at the center of the Galaxy. The black hole and the captured binary partner to S5-HVS1 are seen far away in the left corner of the picture, while S5-HVS1 is in the foreground, speeding away from them. Credit: James Josephides (Swinburne Astronomy Productions) [Download](images_videos/HyperVelocityStar2.jpg)
 
 
 ---
