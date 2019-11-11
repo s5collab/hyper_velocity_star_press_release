@@ -5,6 +5,14 @@
 
 The article "Discovery of a nearby 1700 km/s star ejected from the Milky Way by Sgr A*" by Sergey Koposov and collaborators was published in Monthly Notices of Royal Astronomical Society and is available [here](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stz3081/5612212) on the Oxford University Press website. 
 
+## Links: 
+- [The S5 collaboration](https://s5collab.github.io/)
+- The Anglo-Australian telescope
+- The Gaia satellite
+- [Homepage of the lead author, Sergey Koposov](https://www.andrew.cmu.edu/user/skoposov/)
+- Homepage of Ting Li
+- Homepage of Douglas Boubert
+
 ## Images:
 
 ![](map.png)
