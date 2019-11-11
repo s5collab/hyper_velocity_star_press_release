@@ -25,6 +25,11 @@ Caption: The location of the star on the sky and the direction of its motion. Th
 ![](images_videos/HyperVelocityStar2.jpg)
 Caption: An artist’s impression of S5-HVS1’s ejection by Sagittarius A*, the black hole at the center of the Galaxy. The black hole and the captured binary partner to S5-HVS1 are seen far away in the left corner of the picture, while S5-HVS1 is in the foreground, speeding away from them. Credit: James Josephides (Swinburne Astronomy Productions) [Download](images_videos/HyperVelocityStar2.jpg)
 
+---
+![](images_videos/fine_tuning.png)
+Caption: 
+The precise orbit of S5-HVS1 allows scientists to determine where in the Galaxy the star originates. The red elongated contour shows the region in the Milky Way disk where (with high probability) the star originated.  This region is exactly where the center of the Galaxy and Sagittarius A*, the supermassive black hole, is located (shown by a black circle).  This shows, with high confidence, that the star was ejected by the black hole. The location of the Sun is also indicated by black star. Credit: Sergey Koposov [Download](images_videos/fine_tuning.png)
+
 
 ---
 ## Videos
@@ -32,13 +37,12 @@ Caption: An artist’s impression of S5-HVS1’s ejection by Sagittarius A*, the
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9dExQCwCbUU"
 target="_blank"><img src="https://img.youtube.com/vi/9dExQCwCbUU/0.jpg"
 alt="Ejection of S5-HVS1" width="600" height="400" border="1" /></a>
-Caption: The artist impression of the ejection mechanism by the supermassive black hole. 
+Caption: The artist impression of the ejection mechanism by the supermassive black hole. Credit: James Josephides (Swinburne Astronomy Productions) 
 
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=45NAQxmkhbQ" 
 target="_blank"><img src="http://img.youtube.com/vi/45NAQxmkhbQ/0.jpg" 
 alt="Ejection of S5-HVS1" width="600" height="400" border="1" /></a>
-
 The video shows the motion of two stars as they orbit each other, as they approach the black hole, and then -- when the black hole comes close enough -- the binary system is destroyed and one of the stars (red one) is captured by the black hole, while the blue one is ejected with high speed. Credit: Sergey Koposov
 
 
