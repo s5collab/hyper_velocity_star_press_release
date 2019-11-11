@@ -7,11 +7,11 @@ The article "Discovery of a nearby 1700 km/s star ejected from the Milky Way by 
 
 ## Links: 
 - [The S5 collaboration](https://s5collab.github.io/)
-- The Anglo-Australian telescope
-- The Gaia satellite
+- [The Anglo-Australian telescope](https://www.aao.gov.au/about-us/anglo-australian-telescope)
+- [The Gaia satellite](https://sci.esa.int/web/gaia)
 - [Homepage of Sergey Koposov](https://www.andrew.cmu.edu/user/skoposov/)
-- Homepage of Ting Li
-- Homepage of Douglas Boubert
+- [Homepage of Ting Li](https://sazabi4.github.io/)
+- [Homepage of Douglas Boubert](https://www.douglasboubert.com/)
 
 ## Images:
 
